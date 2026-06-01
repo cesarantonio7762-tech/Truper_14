@@ -32,7 +32,7 @@
 <nav class="navbar navbar-dark bg-dark">
     <div class="container d-flex justify-content-between">
         <span class="navbar-brand fw-bold">TRUPER</span>
-        <a href="login.php" class="btn btn-warning fw-bold">Iniciar Sesión</a>
+        <a href="login.php" class="btn btn-warning fw-bold">LOGIN</a>
     </div>
 </nav>
 
