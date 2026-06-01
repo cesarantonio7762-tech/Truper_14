@@ -78,7 +78,7 @@ if (isset($_GET['eliminar'])) {
 
 <div class="container mt-5">
 
-    <h2 class="text-center mb-4">Panel de Productos</h2>
+    <h2 class="text-center mb-4">Panel de Productos Truper</h2>
 
     <a href="logout.php" class="btn btn-danger mb-3">Cerrar sesión</a>
 
