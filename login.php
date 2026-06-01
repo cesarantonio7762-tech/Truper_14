@@ -44,7 +44,7 @@ body {
 <body class="d-flex justify-content-center align-items-center vh-100">
 
 <div class="card p-4 shadow" style="width: 350px;">
-    <h3 class="text-center mb-3">LOGIN</h3>
+    <h3 class="text-center mb-3">Inicio De Sesion</h3>
 
     <?php if(isset($error)) echo "<div class='alert alert-danger'>$error</div>"; ?>
 
