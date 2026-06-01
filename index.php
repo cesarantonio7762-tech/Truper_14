@@ -39,7 +39,7 @@
 <section class="hero d-flex align-items-center">
     <div class="container text-center">
         <h1 class="display-4 fw-bold">Sistema de Gestión de Productos</h1>
-        <p class="lead">Administra refacciones, herramientas y artículos fácilmente</p>
+        <p class="lead">Administrador de refacciones</p>
         <a href="login.php" class="btn btn-light btn-lg mt-3 fw-bold">
             Entrar al sistema
         </a>
