@@ -32,10 +32,9 @@
 <nav class="navbar navbar-dark bg-dark">
     <div class="container d-flex justify-content-between">
         <span class="navbar-brand fw-bold">TRUPER</span>
-        <a href="login.php" class="btn btn-warning fw-bold">LOGIN</a>
+        <a href="login.php" class="btn btn-warning fw-bold">Iniciar Sesion</a>
     </div>
 </nav>
-
 <!-- HERO -->
 <section class="hero d-flex align-items-center">
     <div class="container text-center">
