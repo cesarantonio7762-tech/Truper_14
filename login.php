@@ -9,7 +9,7 @@ if ($_POST) {
 
         $numControl = substr($correo, 0, 8);
 
-        if ($pass === $numControl . "tso") {
+        if ($pass === $numControl . "ito") {
             $_SESSION['usuario'] = $correo;
             header("Location: admin.php");
             exit();
@@ -51,7 +51,7 @@ body {
     <form method="POST">
         <input class="form-control mb-3" type="email" name="correo" placeholder="Correo institucional" required>
 
-        <input class="form-control mb-3" type="password" name="password" placeholder="Contraseña (No.Control + tso)" required>
+        <input class="form-control mb-3" type="password" name="password" placeholder="Contraseña (No.Control + ito)" required>
 
         <button class="btn btn-primary w-100">Entrar</button>
     </form>
